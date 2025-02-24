@@ -3,7 +3,7 @@
 Plugin Name: Word, Character, and Text Transformation Plugin
 Description: A plugin that allows users to count words, count characters, and transform text to uppercase, lowercase, and capitalized forms.
 Version: 1.3
-Author: Your Name
+Author: Durgesh yadav
 */
 
 if (!defined('ABSPATH')) {
